@@ -7,6 +7,6 @@ def type_beauty(text):
         time.sleep(0.05)  # change it as you like
 
 
-test_text = "Success is not the key to happiness; happiness is the key to success."
+test_text = "Hello, World! 1.\nHello, World! 2"
 
 type_beauty(test_text)
